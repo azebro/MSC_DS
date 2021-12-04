@@ -1,4 +1,4 @@
 {
     "azureML.defaultWorkspaceId": "/subscriptions/fe9b68ff-6e44-4cd6-ae05-68cd02e9e09a/resourceGroups/Data-Science/providers/Microsoft.MachineLearningServices/workspaces/Data-Science-ML",
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local"
 }

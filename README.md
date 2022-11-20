@@ -1,2 +1,3 @@
-# MSC_DS
-MSc in Data Science
+
+##MSc in Data Science
+Repository with past coursework

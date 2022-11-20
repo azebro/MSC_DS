@@ -1,3 +1,3 @@
+MSc in Data Science - University of London
 
-##MSc in Data Science
 Repository with past coursework
